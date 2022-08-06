@@ -1,6 +1,6 @@
 # ZURI ACADEMY - I need industry experience
 
-![Design preview for the I need industry experience](./design/Assignment.JPG)
+![Design preview for the I need industry experience](./design/assignment.JPG)
 
 ## Overview
 
