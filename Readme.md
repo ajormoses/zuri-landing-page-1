@@ -9,7 +9,7 @@
 ## Link
 
 - Solution URL: [ https://github.com/ajormoses/zuri-landing-page-1 ]
-- Live Site URL: [https://ajormoses.github.io/zuri-landing-page-1/ ]
+- Live Site URL: [https://zuri-landing-page1.netlify.app// ]
 
 ## Author
 
