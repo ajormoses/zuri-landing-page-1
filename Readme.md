@@ -2,16 +2,16 @@
 
 ![Design preview for the E-commerce product page coding challenge](./design/assignment.JPG)
 
-# Overview
+## Overview
 
 - My name is Ajor Moses, I'm a student of zuri academy, Thanks for checking out my task.
 
-# Link
+## Link
 
 - Solution URL: [ https://github.com/ajormoses/zuri-landing-page-1 ]
 - Live Site URL: [https://ajormoses.github.io/zuri-landing-page-1/ ]
 
-# Author
+## Author
 
 - Github page: [ https://github.com/ajormoses ]
 - Linkedin: [ https://www.linkedin.com/in/moses-ajor-0b99291a7/ ]
