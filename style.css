@@ -8,6 +8,10 @@
   font-family: "Kumbh Sans", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 img {
   width: 100%;
 }
